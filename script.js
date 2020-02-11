@@ -17,3 +17,7 @@ console.log(myGrades.pop());
 
 console.log(myGrades);
 
+
+//4 
+let myString = "No u";
+console.log(myString.length);
